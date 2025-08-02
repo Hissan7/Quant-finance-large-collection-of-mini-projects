@@ -1,3 +1,15 @@
+** A description of the 15 mini projects **
+
+All files should be able to be run straight from the IDE. 
+
+Required libraries :
+
+- numpy
+- scipy
+- yfinance
+- pandas
+- matplotlib
+
 BlackScholes.py --
 Implements the Black-Scholes model for pricing European call and put options analytically.
 
