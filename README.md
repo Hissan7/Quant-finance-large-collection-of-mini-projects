@@ -52,5 +52,5 @@ Implements the Vasicek interest rate model, a mean-reverting stochastic process 
 WienerProcess.py --
 Simulates Wiener processes (Brownian motion), which are building blocks for stochastic finance models.
 
-ZeroCouponBond.py
+ZeroCouponBond.py --
 Calculates pricing and yield for zero-coupon bonds, which pay no periodic interest but are sold at a discount.
